@@ -17,7 +17,7 @@ To deactivate the virtual environment:
 deactivate
 ```
 
-Ensure all packages within requirements.txt are installed using pip.
+Ensure all packages within requirements.txt are installed using pip. To verify that all required packages are installed, view the list of packages whilst in the virtual environment with ```pip list```.
 
 
 In the directory mainproject:
