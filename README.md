@@ -1,6 +1,6 @@
 # projek.
 
-To activate the virtual environment:
+To activate the virtual environment in root directory:
 ```
 For mac/unix users: source env/bin/activate
 For windows users: .\env\Scripts\activate
