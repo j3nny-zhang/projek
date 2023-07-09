@@ -1,29 +1,16 @@
 # projek.
 
-Set up a virtual environment in the root folder using:
-```
-For mac/unix users: python3 -m venv env
-For windows users: py -m venv env
-```
+A web application with shareable to-do list profiles which emphasizes accountability of finishing tasks using a notification system.
 
-To activate the virtual environment in root directory:
-```
-For mac/unix users: source env/bin/activate
-For windows users: .\env\Scripts\activate
-```
+## Tech-stack
+### Frontend
+- React.js
+### Backend
+- Django
+- MySQL
 
-To deactivate the virtual environment:
-```
-deactivate
-```
+## Design
 
-Ensure all packages within requirements.txt are installed using pip. To verify that all required packages are installed, view the list of packages whilst in the virtual environment with ```pip list```.
-
-
-In the directory mainproject:
-
-Start server with:
-```
-python manage.py runserver
-```
-which should be visible in http://127.0.0.1:8000/.
+![personal board](https://github.com/j3nny-zhang/projek/assets/63063216/d08c374d-7434-46c5-9855-a937c9937d8b)
+![open task overlay](https://github.com/j3nny-zhang/projek/assets/63063216/c12fd180-b94b-438a-b97a-a77bd08e26e7)
+![friend's board](https://github.com/j3nny-zhang/projek/assets/63063216/23eb37e0-7025-4ba1-ba21-fc7b6162473e)
